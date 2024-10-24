@@ -1,0 +1,10 @@
+C:\Users\M.Tarık MENGÜÇ\source\repos\Flappy Ball\Flappy Ball\obj\Debug\Flappy Ball.csproj.AssemblyReference.cache
+C:\Users\M.Tarık MENGÜÇ\source\repos\Flappy Ball\Flappy Ball\obj\Debug\Flappy_Ball.Form1.resources
+C:\Users\M.Tarık MENGÜÇ\source\repos\Flappy Ball\Flappy Ball\obj\Debug\Flappy_Ball.Properties.Resources.resources
+C:\Users\M.Tarık MENGÜÇ\source\repos\Flappy Ball\Flappy Ball\obj\Debug\Flappy Ball.csproj.GenerateResource.cache
+C:\Users\M.Tarık MENGÜÇ\source\repos\Flappy Ball\Flappy Ball\obj\Debug\Flappy Ball.csproj.CoreCompileInputs.cache
+C:\Users\M.Tarık MENGÜÇ\source\repos\Flappy Ball\Flappy Ball\bin\Debug\Flappy Ball.exe.config
+C:\Users\M.Tarık MENGÜÇ\source\repos\Flappy Ball\Flappy Ball\bin\Debug\Flappy Ball.exe
+C:\Users\M.Tarık MENGÜÇ\source\repos\Flappy Ball\Flappy Ball\bin\Debug\Flappy Ball.pdb
+C:\Users\M.Tarık MENGÜÇ\source\repos\Flappy Ball\Flappy Ball\obj\Debug\Flappy Ball.exe
+C:\Users\M.Tarık MENGÜÇ\source\repos\Flappy Ball\Flappy Ball\obj\Debug\Flappy Ball.pdb
